@@ -12,5 +12,8 @@
     "chai"
   ],
   "author": "Srushti Motghare",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
 }
